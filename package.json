@@ -1,0 +1,17 @@
+{
+  "name": "ocaml",
+  "version": "1.0.0",
+  "description": "learn some ocaml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack",
+    "dev": "echo \"real dev flow TODO\" && python -m SimpleHTTPServer"
+  },
+  "author": "Davey Wood",
+  "license": "ISC",
+  "devDependencies": {
+    "virtual-dom": "^2.1.1",
+    "webpack": "^1.13.2"
+  }
+}
