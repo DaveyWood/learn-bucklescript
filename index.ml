@@ -9,4 +9,8 @@ let root_node = create_element wut
 
 let () = append_child body root_node
 
-let () = Js.log wut
+let two = render 2
+
+let patches = diff wut two
+
+let stuff = patch root_node patches
