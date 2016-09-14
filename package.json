@@ -9,7 +9,7 @@
     "dev": "echo \"real dev flow TODO\" && python -m SimpleHTTPServer"
   },
   "author": "Davey Wood",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "devDependencies": {
     "virtual-dom": "^2.1.1",
     "webpack": "^1.13.2"
