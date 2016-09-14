@@ -13,5 +13,8 @@
   "devDependencies": {
     "virtual-dom": "^2.1.1",
     "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "bs-platform": "^1.0.1"
   }
 }

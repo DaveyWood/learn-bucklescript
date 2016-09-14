@@ -20,7 +20,7 @@
       "node_modules/virtual-dom/patch.js": 15,
       "node_modules/virtual-dom/vdom/patch.js": 16,
       "node_modules/global/document.js": 17,
-      "ignored /home/davey/projects/ocaml/node_modules/global min-document": 18,
+      "ignored /Users/dwood/cvent.git/davey-github/learn-bucklescript/node_modules/global min-document": 18,
       "node_modules/virtual-dom/vdom/create-element.js": 19,
       "node_modules/virtual-dom/vdom/apply-properties.js": 20,
       "node_modules/virtual-dom/vdom/dom-index.js": 21,
