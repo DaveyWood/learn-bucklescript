@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "./node_modules/.bin/webpack",
+    "build": "bsc -c -bs-main index.ml && ./node_modules/.bin/webpack",
     "dev": "echo \"real dev flow TODO\" && python -m SimpleHTTPServer"
   },
   "author": "Davey Wood",
